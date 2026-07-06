@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gsansing3commas.github.io/lumi-re-meet-sofia/sitemap.xml
